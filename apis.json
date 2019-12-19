@@ -1,0 +1,66 @@
+{
+    "name": "Healthnotes",
+    "description": "Cloud-based compliance and education solutions from the Supplement Experts. Vitature\u00ae and Aisle7\u00ae are specifically for the dietary supplement industry.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1332-healthnotes.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "healthcare",
+        "nutrition"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/healthnotes\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Healthnotes",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1332-healthnotes.jpg",
+            "humanURL": "http:\/\/healthnotes.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/healthnotes-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/healthnotes-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/web.aisle7.net\/data-api\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/healthnotes\/timeline"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/dev.healthnotes.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@healthnotes.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@healthnotes.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/HealthnotesInc"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/healthnotes.com\/"
+        }
+    ]
+}
